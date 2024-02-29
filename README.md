@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iram Naswer
+- 👋 Hi, I’m Iram Naseer
 - 👀 I’m interested in machine learning models
 - 🌱 I’m currently learning model development
 - 💞️ I’m looking to collaborate on any exciting project
